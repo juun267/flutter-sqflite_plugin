@@ -1,0 +1,2 @@
+
+enum SetDatabaseType { insert, insertBatch }
